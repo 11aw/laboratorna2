@@ -58,4 +58,3 @@ cout << "Number" << out_number << "- palendrom" << endl;
 else
 cout << "This is not palendrom" << endl;
 }
-© 2020 GitHub, Inc.
